@@ -1,0 +1,54 @@
+C:\Users\adarshnishad\source\repos\WebAPI_demo_DevOps\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\adarshnishad\source\repos\WebAPI_demo_DevOps\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\adarshnishad\source\repos\WebAPI_demo_DevOps\bin\Debug\netcoreapp3.1\WebAPI_demo_DevOps.exe
+C:\Users\adarshnishad\source\repos\WebAPI_demo_DevOps\bin\Debug\netcoreapp3.1\WebAPI_demo_DevOps.deps.json
+C:\Users\adarshnishad\source\repos\WebAPI_demo_DevOps\bin\Debug\netcoreapp3.1\WebAPI_demo_DevOps.runtimeconfig.json
+C:\Users\adarshnishad\source\repos\WebAPI_demo_DevOps\bin\Debug\netcoreapp3.1\WebAPI_demo_DevOps.runtimeconfig.dev.json
+C:\Users\adarshnishad\source\repos\WebAPI_demo_DevOps\bin\Debug\netcoreapp3.1\WebAPI_demo_DevOps.dll
+C:\Users\adarshnishad\source\repos\WebAPI_demo_DevOps\bin\Debug\netcoreapp3.1\WebAPI_demo_DevOps.pdb
+C:\Users\adarshnishad\source\repos\WebAPI_demo_DevOps\obj\Debug\netcoreapp3.1\WebAPI_demo_DevOps.csproj.AssemblyReference.cache
+C:\Users\adarshnishad\source\repos\WebAPI_demo_DevOps\obj\Debug\netcoreapp3.1\WebAPI_demo_DevOps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adarshnishad\source\repos\WebAPI_demo_DevOps\obj\Debug\netcoreapp3.1\WebAPI_demo_DevOps.AssemblyInfoInputs.cache
+C:\Users\adarshnishad\source\repos\WebAPI_demo_DevOps\obj\Debug\netcoreapp3.1\WebAPI_demo_DevOps.AssemblyInfo.cs
+C:\Users\adarshnishad\source\repos\WebAPI_demo_DevOps\obj\Debug\netcoreapp3.1\WebAPI_demo_DevOps.csproj.CoreCompileInputs.cache
+C:\Users\adarshnishad\source\repos\WebAPI_demo_DevOps\obj\Debug\netcoreapp3.1\WebAPI_demo_DevOps.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\adarshnishad\source\repos\WebAPI_demo_DevOps\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI_demo_DevOps.StaticWebAssets.Manifest.cache
+C:\Users\adarshnishad\source\repos\WebAPI_demo_DevOps\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI_demo_DevOps.StaticWebAssets.xml
+C:\Users\adarshnishad\source\repos\WebAPI_demo_DevOps\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebAPI_demo_DevOps.styles.css
+C:\Users\adarshnishad\source\repos\WebAPI_demo_DevOps\obj\Debug\netcoreapp3.1\WebAPI_demo_DevOps.RazorTargetAssemblyInfo.cache
+C:\Users\adarshnishad\source\repos\WebAPI_demo_DevOps\obj\Debug\netcoreapp3.1\WebAPI_demo_DevOps.dll
+C:\Users\adarshnishad\source\repos\WebAPI_demo_DevOps\obj\Debug\netcoreapp3.1\WebAPI_demo_DevOps.pdb
+C:\Users\adarshnishad\source\repos\WebAPI_demo_DevOps\obj\Debug\netcoreapp3.1\WebAPI_demo_DevOps.genruntimeconfig.cache
+C:\Users\adarshnishad\source\repos\WebAPI_demo_DevOps\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\adarshnishad\source\repos\WebAPI_demo_DevOps\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\adarshnishad\source\repos\WebAPI_demo_DevOps\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\adarshnishad\source\repos\WebAPI_demo_DevOps\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\adarshnishad\source\repos\WebAPI_demo_DevOps\obj\Debug\netcoreapp3.1\WebAPI_demo_DevOps.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\adarshnishad\source\repos\WebAPI_demo_DevOps\obj\Debug\netcoreapp3.1\WebAPI_demo_DevOps.csproj.CopyComplete
+D:\Learning\New folder (2)\WebAPI_demo_DevOps\WebAPI_demo_DevOps\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Learning\New folder (2)\WebAPI_demo_DevOps\WebAPI_demo_DevOps\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Learning\New folder (2)\WebAPI_demo_DevOps\WebAPI_demo_DevOps\bin\Debug\netcoreapp3.1\WebAPI_demo_DevOps.exe
+D:\Learning\New folder (2)\WebAPI_demo_DevOps\WebAPI_demo_DevOps\bin\Debug\netcoreapp3.1\WebAPI_demo_DevOps.deps.json
+D:\Learning\New folder (2)\WebAPI_demo_DevOps\WebAPI_demo_DevOps\bin\Debug\netcoreapp3.1\WebAPI_demo_DevOps.runtimeconfig.json
+D:\Learning\New folder (2)\WebAPI_demo_DevOps\WebAPI_demo_DevOps\bin\Debug\netcoreapp3.1\WebAPI_demo_DevOps.runtimeconfig.dev.json
+D:\Learning\New folder (2)\WebAPI_demo_DevOps\WebAPI_demo_DevOps\bin\Debug\netcoreapp3.1\WebAPI_demo_DevOps.dll
+D:\Learning\New folder (2)\WebAPI_demo_DevOps\WebAPI_demo_DevOps\bin\Debug\netcoreapp3.1\WebAPI_demo_DevOps.pdb
+D:\Learning\New folder (2)\WebAPI_demo_DevOps\WebAPI_demo_DevOps\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Learning\New folder (2)\WebAPI_demo_DevOps\WebAPI_demo_DevOps\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Learning\New folder (2)\WebAPI_demo_DevOps\WebAPI_demo_DevOps\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Learning\New folder (2)\WebAPI_demo_DevOps\WebAPI_demo_DevOps\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Learning\New folder (2)\WebAPI_demo_DevOps\WebAPI_demo_DevOps\obj\Debug\netcoreapp3.1\WebAPI_demo_DevOps.csproj.AssemblyReference.cache
+D:\Learning\New folder (2)\WebAPI_demo_DevOps\WebAPI_demo_DevOps\obj\Debug\netcoreapp3.1\WebAPI_demo_DevOps.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\New folder (2)\WebAPI_demo_DevOps\WebAPI_demo_DevOps\obj\Debug\netcoreapp3.1\WebAPI_demo_DevOps.AssemblyInfoInputs.cache
+D:\Learning\New folder (2)\WebAPI_demo_DevOps\WebAPI_demo_DevOps\obj\Debug\netcoreapp3.1\WebAPI_demo_DevOps.AssemblyInfo.cs
+D:\Learning\New folder (2)\WebAPI_demo_DevOps\WebAPI_demo_DevOps\obj\Debug\netcoreapp3.1\WebAPI_demo_DevOps.csproj.CoreCompileInputs.cache
+D:\Learning\New folder (2)\WebAPI_demo_DevOps\WebAPI_demo_DevOps\obj\Debug\netcoreapp3.1\WebAPI_demo_DevOps.MvcApplicationPartsAssemblyInfo.cs
+D:\Learning\New folder (2)\WebAPI_demo_DevOps\WebAPI_demo_DevOps\obj\Debug\netcoreapp3.1\WebAPI_demo_DevOps.MvcApplicationPartsAssemblyInfo.cache
+D:\Learning\New folder (2)\WebAPI_demo_DevOps\WebAPI_demo_DevOps\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI_demo_DevOps.StaticWebAssets.Manifest.cache
+D:\Learning\New folder (2)\WebAPI_demo_DevOps\WebAPI_demo_DevOps\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI_demo_DevOps.StaticWebAssets.xml
+D:\Learning\New folder (2)\WebAPI_demo_DevOps\WebAPI_demo_DevOps\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebAPI_demo_DevOps.styles.css
+D:\Learning\New folder (2)\WebAPI_demo_DevOps\WebAPI_demo_DevOps\obj\Debug\netcoreapp3.1\WebAPI_demo_DevOps.RazorTargetAssemblyInfo.cache
+D:\Learning\New folder (2)\WebAPI_demo_DevOps\WebAPI_demo_DevOps\obj\Debug\netcoreapp3.1\WebAPI_demo_DevOps.csproj.CopyComplete
+D:\Learning\New folder (2)\WebAPI_demo_DevOps\WebAPI_demo_DevOps\obj\Debug\netcoreapp3.1\WebAPI_demo_DevOps.dll
+D:\Learning\New folder (2)\WebAPI_demo_DevOps\WebAPI_demo_DevOps\obj\Debug\netcoreapp3.1\WebAPI_demo_DevOps.pdb
+D:\Learning\New folder (2)\WebAPI_demo_DevOps\WebAPI_demo_DevOps\obj\Debug\netcoreapp3.1\WebAPI_demo_DevOps.genruntimeconfig.cache
