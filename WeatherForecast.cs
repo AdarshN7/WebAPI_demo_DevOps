@@ -1,6 +1,6 @@
 using System;
 
-namespace WebAPI_demo_DevOps
+namespace WebApplication4
 {
     public class WeatherForecast
     {
